@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-12-08T17:49:17Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "coil-control-rev"
+        },
+        "Owner": "Nolan Lem <nlem@stanford.edu>",
+        "Size": {
+            "X": 188.595,
+            "Y": 64.77
+        }
+    }
+}
