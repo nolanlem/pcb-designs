@@ -8,4 +8,4 @@ EAGLE PCB-DESIGN Files for Various Projects
 + see documentation here: https://www.youtube.com/watch?v=IUg8T152WAE 
 
 ![alt text](images/ckt.png)
-
+![8 of the completed circuits, 64 electro-magnet control system](images/ckt-photo.png) 
