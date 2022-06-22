@@ -7,5 +7,5 @@ EAGLE PCB-DESIGN Files for Various Projects
  + oscillatory motion using a a dynamic feedback control system. 
 + see documentation here: https://www.youtube.com/watch?v=IUg8T152WAE 
 
-![alt text](http://url/to/img.png)
+![alt text](images/ckt.png)
 
