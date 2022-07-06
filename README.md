@@ -9,3 +9,9 @@ EAGLE PCB-DESIGN Files for Various Projects
 
 ![alt text](images/ckt.png)
 ![8 of the completed circuits, 64 electro-magnet control system](images/ckt-photo.png) 
+
++
++ Magnetic Field -> Variable Frequency Oscillator and Voltage Controlled Amplifier design 
++ This circuit consists of 3 stages: a hall sensor + voltage buffer, sine wave oscillator + voltage buffer, and voltage controlled amplifier with variable signal power gain. 
+![alt text] 
+![circle schematic for vca circuit in Eagle PCB](images/vca-schematic)
